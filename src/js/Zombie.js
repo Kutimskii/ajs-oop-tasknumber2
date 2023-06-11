@@ -5,6 +5,5 @@ export default class Zombie extends Character {
     super(name, type, health, level);
     this.attack = 10;
     this.defence = 40;
-
   }
 }
